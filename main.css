@@ -19,14 +19,14 @@ h1 {
 header {
     margin: 0;
     width: 100%;
-    background-color: #3500D3;
+    background-color: #4db33d;
     color: white;
 }
 
 header h1 {
     margin: 0;
     text-align: center;
-    color: #F64C72;
+    color: #3f3e42;
     font-family: 'Lato', 'Roboto', sans-serif;
 }
 
