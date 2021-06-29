@@ -1,6 +1,7 @@
 # mini-mongodb-guide
 
 This leaf-sized educational project was coded as a project for [MLH INIT 2022](https://init.mlh.io/): Day 2.
+
 My good friend [James Aiker](https://github.com/kombuken) took some time out of his busy academic schedule to work on this with me, props to him!
 
 ## Inspiration
